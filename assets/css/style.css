@@ -1,5 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 #container {
     background: none;
 }
 
-@import "{{ site.theme }}";
