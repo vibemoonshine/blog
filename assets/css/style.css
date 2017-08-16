@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#container {
+div#container {
     background: none !important;
 }
 
